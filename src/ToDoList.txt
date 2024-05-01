@@ -1,11 +1,4 @@
-Apply Inheritance
-Apply Serialization
 Add xception Handling
 Add JavaDoc Comments
-Add Abstraction
-Apply user input for name and which course
 add algorithm
-add functionality options 3-8
-add electives 6xt file
-(read notes in final project)
-If possible add gui arldy cuh
+add functionality options 5-8
