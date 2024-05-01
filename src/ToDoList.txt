@@ -1,0 +1,14 @@
+Add Exception Handling
+Add JavaDoc Comments ***
+add functionality options 4-8
+Create a prerequisite method
+
+
+PROGRAM txt file format
+year,term,courseNo,courseName,unit
+
+PREREQUISITE txt file format // needss editing fr
+courseName,prerequiste1,prerequsite 2
+
+ELECTIVES txt file format
+electiveIndicator,electiveNumber, courseNo, courseName, units, labUnits

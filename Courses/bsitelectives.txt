@@ -1,0 +1,21 @@
+ITE 10,Advanced Information Management,3,0,false,true
+ITE 11,Advanced Networking,3,1,false,true
+ITE 12,Advanced System Administration,3,0,false,true
+ITE 13,Advanced Web Technologies,2,1,false,true
+ITE 14,UX Concepts and Design,3,0,false,true
+ITE 15,IT Security Management,3,0,false,true
+ITE 16,Data Warehouse,3,0,false,true
+ITE 17,Data Mining,2,1,false,true
+ITE 18,Advanced Applications Development,2,1,false,true
+ITE 19,Knowledge Management,3,0,false,true
+ITE 20,IT Project Planning and Management,3,0,false,true
+ITE 21,Advanced Software Engineering,3,0,false,true
+ITE 22,Graphics Technologies ,2,1,false,true
+ITE 23,Electronic Commerce,3,0,false,true
+ITE 24,Mobile Computing,2,1,false,true
+ITE 25,Intelligent Systems,3,0,false,true
+ITE 26,Current Trends 1,3,0,false,true
+ITE 27,Current Trends 2,3,0,false,true
+ITE 28,Special Topics 1,3,0,false,true
+ITE 29,Special Topics 2,3,0,false,true
+ITE 30,Information Technology Certification Review 2,3,0,false,true
