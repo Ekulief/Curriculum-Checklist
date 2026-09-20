@@ -3,7 +3,18 @@
 A Java Swing desktop application that helps a **BSIT or BSCS student of Saint Louis University** track progress through their curriculum. Students sign in with their ID number, see their subjects term by term, record grades, add courses, take electives, view their GPA, and shift between programs. Each student's progress is saved between sessions.
 
 ---
+## Team
 
+Final project, Programming 2 (Class 9401)
+
+- Agcaoili, Adriel
+- Barry, John Joeffrey
+- Bibit-Chee, Lieflander Luke
+- Bilal, Majd
+- Carbonel, Theron
+- Cumti,Mart
+- Esperagoza, Genel
+---
 ## Features
 
 **Accounts**
@@ -116,22 +127,4 @@ On any other machine the file is not found, the error is only printed, and every
 
 ---
 
-## Team
 
-Final project, Programming 2 (Class 9401)
-
-- Agcaoili, Adriel
-- Barry, John Joeffrey
-- Bibit-Chee, Lieflander Luke
-- Bilal, Majd
-- Carbonel, Theron
-- Cumti, _TODO: add first name_
-- Esperagoza, Genel
-
-## Screenshots
-
-_TODO: add screenshots of the login screen, options menu, curriculum view, and elective selection._
-
-## License
-
-_TODO: choose a license, or remove this section if the project is for coursework only._
